@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: url(https://images.unsplash.com/photo-1699891730676-037bed3c1bed?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em 0;
+    position: relative;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li {
+    margin: 0 1em;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5em;
+}
+
+.hero {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+    padding: 4em 2em;
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.5em;
+    margin-top: 0.5em;
+}
+
+.content {
+    padding: 2em;
+}
+
+.blog-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    justify-content: center;
+}
+
+.blog-post {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: calc(50% - 1.5em); /* Adjusted for 2 items per row */
+    max-width: 400px; /* Optional: Max width to control size */
+    margin: 0.75em;
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+.blog-post img {
+    width: 100%;
+    height: auto;
+}
+
+.blog-post h3 {
+    font-size: 1.5em;
+    margin: 0.5em 1em;
+    color: #007BFF;
+}
+
+.blog-post p {
+    padding: 0 1em;
+    line-height: 1.6;
+}
+
+.blog-post .btn {
+    display: block;
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    padding: 0.75em;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 1em 1em 1.5em;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.blog-post .btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.blog-post .btn:active {
+    background-color: #004080;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    width: 100%;
+}
+
+.rp {
+    text-align: center;
+    font-size: 2em;
+    margin: 2em 0;
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 0.5em;
+}
