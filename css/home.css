@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
-    background: url(https://images.unsplash.com/photo-1699891730676-037bed3c1bed?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat center center fixed;
+    background: url(https://images.unsplash.com/photo-1707756310542-220381e83102?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat center center fixed;
     background-size: cover;
     color: #333;
 }
@@ -123,7 +123,7 @@ footer {
     text-align: center;
     font-size: 2em;
     margin: 2em 0;
-    color: hsl(0, 0%, 100%);
+    color: #ffffff;
     font-weight: bold;
     border-bottom: 2px solid #007BFF;
     padding-bottom: 0.5em;
