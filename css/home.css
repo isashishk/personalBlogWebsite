@@ -50,7 +50,8 @@ header {
 }
 
 .content {
-    padding: 2em;
+    /* padding: 2em; */
+    width: 100%;
 }
 
 .blog-grid {
@@ -65,8 +66,9 @@ header {
     border: 1px solid #ddd;
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: calc(50% - 1.5em); /* Adjusted for 2 items per row */
-    max-width: 400px; /* Optional: Max width to control size */
+    /* width: calc(50% - 1.5em);  */
+    /* Adjusted for 2 items per row */
+    width: 100%; /* Optional: Max width to control size */
     margin: 0.75em;
     overflow: hidden;
     transition: transform 0.3s;
