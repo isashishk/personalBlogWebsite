@@ -58,16 +58,19 @@ Navigate through the website using the navigation bar to explore different pages
 ## Screenshots
 
 ### Home Page
-![Home Page](https://user-images.githubusercontent.com/your_username/homepage_screenshot.png)
+![Home Page](/images/home.png)
+
+### About Page
+![About Page](/images/about.png)
 
 ### Blog Page
-![Blog Page](https://user-images.githubusercontent.com/your_username/blogpage_screenshot.png)
+![Blog Page](/images/)
 
 ### Gallery Page
-![Gallery Page](https://user-images.githubusercontent.com/your_username/gallerypage_screenshot.png)
+![Gallery Page](/images/)
 
 ### Contact Page
-![Contact Page](https://user-images.githubusercontent.com/your_username/contactpage_screenshot.png)
+![Contact Page](/images/contact.png)
 
 ## License
 
