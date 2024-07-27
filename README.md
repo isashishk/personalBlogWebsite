@@ -1,5 +1,5 @@
 # Personal Blog Website
-
+Advanced WebStack Development LAB EXERCISE-II (5-Static Pages):
 Welcome to my Personal Blog Website project! This repository contains the code for a static website featuring a blog with recent posts, an about page, a gallery, and a contact form. The website is built using HTML5, CSS3, and JavaScript without the use of Bootstrap, and is styled to be visually appealing and user-friendly.
 
 ## Table of Contents
