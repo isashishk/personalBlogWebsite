@@ -1,0 +1,60 @@
+.parallax {
+    background-image: url('https://images.unsplash.com/photo-1707756310542-220381e83102?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    padding: 2em;
+    background: #fff;
+    border-top: 2px solid #007BFF;
+}
+
+article {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1em 0;
+    padding: 1em;
+    transition: transform 0.3s;
+}
+
+article:hover {
+    transform: translateY(-10px);
+}
+
+article h2 {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+    color: #007BFF;
+}
+
+article p {
+    line-height: 1.6;
+}
+
+article .btn {
+    display: block;
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    padding: 0.75em;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 1em 0 0;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+article .btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+article .btn:active {
+    background-color: #004080;
+}
