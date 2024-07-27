@@ -64,10 +64,10 @@ Navigate through the website using the navigation bar to explore different pages
 ![About Page](/images/about.png)
 
 ### Blog Page
-![Blog Page](/images/)
+![Blog Page](/images/blog.png)
 
 ### Gallery Page
-![Gallery Page](/images/)
+![Gallery Page](/images/gallery.png)
 
 ### Contact Page
 ![Contact Page](/images/contact.png)
